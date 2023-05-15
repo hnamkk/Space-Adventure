@@ -280,6 +280,7 @@ try_again:
 			threat[0].MoveThreat();
 			threat[1].MoveThreat();
 			threat[2].MoveThreat();
+			threat[0].MoveThreatLvUp();
 		}
 		else if (up_level_count <= 8)
 		{
@@ -311,10 +312,7 @@ try_again:
 			threat[3].MoveThreatLvUp();
 		}
 
-		if ((threat[0].getYPOS() + THREAT_HEIGHT >= SCREEN_H - 10 )||
-			(threat[1].getYPOS() + THREAT_HEIGHT >= SCREEN_H - 10 ) ||
-			(threat[2].getYPOS() + THREAT_HEIGHT >= SCREEN_H - 10 ) ||
-			(threat[3].getYPOS() + THREAT_HEIGHT >= SCREEN_H - 10 ))
+		if ((threat[0].getYPOS() + THREAT_HEIGHT >= SCREEN_H - 10 ))
 		{
 			up_level_count++;
 		}
