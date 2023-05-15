@@ -19,21 +19,21 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Ship.cpp" />
-    <ClCompile Include="C:\Users\admin\Downloads\Dodgy-Dog-master\ComFunc.cpp" />
-    <ClCompile Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Core.cpp" />
-    <ClCompile Include="C:\Users\admin\Downloads\Dodgy-Dog-master\main.cpp" />
-    <ClCompile Include="C:\Users\admin\Downloads\Dodgy-Dog-master\TextShow.cpp" />
-    <ClCompile Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Threat.cpp" />
-    <ClCompile Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Time.cpp" />
+    <ClCompile Include="D:\Users\admin\VSC\Project\Ship.cpp" />
+    <ClCompile Include="D:\Users\admin\VSC\Project\ComFunc.cpp" />
+    <ClCompile Include="D:\Users\admin\VSC\Project\Core.cpp" />
+    <ClCompile Include="D:\Users\admin\VSC\Project\main.cpp" />
+    <ClCompile Include="D:\Users\admin\VSC\Project\TextShow.cpp" />
+    <ClCompile Include="D:\Users\admin\VSC\Project\Threat.cpp" />
+    <ClCompile Include="D:\Users\admin\VSC\Project\Time.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Ship.h" />
-    <ClInclude Include="C:\Users\admin\Downloads\Dodgy-Dog-master\ComFunc.h" />
-    <ClInclude Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Core.h" />
-    <ClInclude Include="C:\Users\admin\Downloads\Dodgy-Dog-master\TextShow.h" />
-    <ClInclude Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Threat.h" />
-    <ClInclude Include="C:\Users\admin\Downloads\Dodgy-Dog-master\Time.h" />
+    <ClInclude Include="D:\Users\admin\VSC\Project\Ship.h" />
+    <ClInclude Include="D:\Users\admin\VSC\Project\ComFunc.h" />
+    <ClInclude Include="D:\Users\admin\VSC\Project\Core.h" />
+    <ClInclude Include="D:\Users\admin\VSC\Project\TextShow.h" />
+    <ClInclude Include="D:\Users\admin\VSC\Project\Threat.h" />
+    <ClInclude Include="D:\Users\admin\VSC\Project\Time.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
