@@ -19,21 +19,21 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Users\admin\VSC\Project\Ship.cpp" />
-    <ClCompile Include="D:\Users\admin\VSC\Project\ComFunc.cpp" />
-    <ClCompile Include="D:\Users\admin\VSC\Project\Core.cpp" />
-    <ClCompile Include="D:\Users\admin\VSC\Project\main.cpp" />
-    <ClCompile Include="D:\Users\admin\VSC\Project\TextShow.cpp" />
-    <ClCompile Include="D:\Users\admin\VSC\Project\Threat.cpp" />
-    <ClCompile Include="D:\Users\admin\VSC\Project\Time.cpp" />
+    <ClCompile Include="D:\VSC\Project\Ship.cpp" />
+    <ClCompile Include="D:\VSC\Project\ComFunc.cpp" />
+    <ClCompile Include="D:\VSC\Project\Core.cpp" />
+    <ClCompile Include="D:\VSC\Project\main.cpp" />
+    <ClCompile Include="D:\VSC\Project\TextShow.cpp" />
+    <ClCompile Include="D:\VSC\Project\Threat.cpp" />
+    <ClCompile Include="D:\VSC\Project\Time.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\Users\admin\VSC\Project\Ship.h" />
-    <ClInclude Include="D:\Users\admin\VSC\Project\ComFunc.h" />
-    <ClInclude Include="D:\Users\admin\VSC\Project\Core.h" />
-    <ClInclude Include="D:\Users\admin\VSC\Project\TextShow.h" />
-    <ClInclude Include="D:\Users\admin\VSC\Project\Threat.h" />
-    <ClInclude Include="D:\Users\admin\VSC\Project\Time.h" />
+    <ClInclude Include="D:\VSC\Project\Ship.h" />
+    <ClInclude Include="D:\VSC\Project\ComFunc.h" />
+    <ClInclude Include="D:\VSC\Project\Core.h" />
+    <ClInclude Include="D:\VSC\Project\TextShow.h" />
+    <ClInclude Include="D:\VSC\Project\Threat.h" />
+    <ClInclude Include="D:\VSC\Project\Time.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
